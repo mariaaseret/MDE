@@ -1,4 +1,5 @@
-# Repositório de Exercícios de Mineração de Dados Educacionais (MDE) da Universidade Federal do Paraná - UFPR
+# Repositório de Exercícios de Mineração de Dados Educacionais (MDE)
+## Doutorado em Ciência da Computação na Universidade Federal do Paraná - UFPR
 
 Este repositório contém uma série de notebooks Jupyter com exercícios práticos de MDE, destinados a estudantes e profissionais interessados em aprofundar seus conhecimentos em ciência de dados e programação em Python.
 
