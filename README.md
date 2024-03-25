@@ -4,7 +4,7 @@ Este repositório contém uma série de notebooks Jupyter com exercícios práti
 
 ## Como Instalar
 
-Para executar os notebooks deste repositório, é recomendável que você tenha o [Anaconda](https://www.anaconda.com/products/distribution) instalado, pois ele inclui o Jupyter Notebook, além de várias bibliotecas úteis.
+Para executar os notebooks deste repositório, é recomendável que você tenha o [Anaconda](https://www.anaconda.com/products/distribution) instalado, pois ele inclui o Jupyter Notebook, além de várias bibliotecas úteis OU aida você também pode importar o código no [Colab](https://colab.research.google.com/).
 
 Após a instalação do Anaconda, clone este repositório usando Git:
 
