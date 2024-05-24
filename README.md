@@ -28,6 +28,8 @@ Cada notebook contém um conjunto de instruções e exercícios práticos. É re
 
 - **Aula 5**: – Exercício de Programação Regressão - [Aula5_MDE.ipynb](Aula5_MDE.ipynb)
 
+...
+
 Mais exercícios serão adicionados ao longo do ano.
 
 ## Contribuições
